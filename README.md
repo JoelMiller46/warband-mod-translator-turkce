@@ -28,6 +28,8 @@ Bu araç, **Mount & Blade: Warband** mod dosyalarını (.csv ve .txt) otomatik o
 ### 📜 Lisans
 Bu proje **MIT Lisansı** ile korunmaktadır. İstediğiniz gibi geliştirip paylaşabilirsiniz.
 
+Bu proje, kişisel oyun modlama ihtiyaçlarım için tasarladığım bir algoritmanın, yapay zeka yardımıyla Python ve Tkinter kullanılarak koda dökülmüş halidir.
+
 ---
 **Geliştirici:** JoelMiller46
 
